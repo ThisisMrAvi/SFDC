@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-03-15T11:34:52.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c5HdLQjssguaakQuN4AR" version="21.8.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="954" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxQkHZnywMIjQHqJgyTy-1" target="mxQkHZnywMIjQHqJgyTy-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-1" value="Generate Auth Token" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="100" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxQkHZnywMIjQHqJgyTy-2" target="mxQkHZnywMIjQHqJgyTy-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-2" value="Create a Bulk Job" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="160" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxQkHZnywMIjQHqJgyTy-3" target="mxQkHZnywMIjQHqJgyTy-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-3" value="Upload job data (Can upload multiple csv files here)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="220" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-4" value="upload csv 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="250" width="60" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-5" value="Upload csv 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="250" width="60" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="250" width="60" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="250" width="60" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxQkHZnywMIjQHqJgyTy-10" target="mxQkHZnywMIjQHqJgyTy-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-10" value="Close Bulk Job (or Abort)&lt;br&gt;by changing job state (&lt;span style=&quot;background-color: rgb(255, 255, 254);&quot;&gt;&quot;state&quot;:&lt;/span&gt;&lt;span style=&quot;color: rgb(4, 81, 165);&quot;&gt;&quot;UploadComplete&quot;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="360" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mxQkHZnywMIjQHqJgyTy-16" target="mxQkHZnywMIjQHqJgyTy-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-16" value="Monitor Job status until we get success or failure" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="420" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-17" value="Merge results for final output csv" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="480" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-18" value="Sucsess records" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="510" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-19" value="Failed records" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="345" y="510" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mxQkHZnywMIjQHqJgyTy-20" value="Unprocessed records" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="510" width="105" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
